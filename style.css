@@ -21,6 +21,7 @@ img {
     height: 240px; 
     display: block;
     margin: 0 auto;
+    float: right;
 }
 
 @media screen and (max-width: 570px) {
